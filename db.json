@@ -42,5 +42,49 @@
             "location": "Surabaya",
             "department": "Warehouse"
         }
+    ],
+    "barang":[
+        {
+            "id":0,
+            "name": "Poster Kampanye",
+            "location": "Bandung",
+            "type": "poster"
+        },
+        {
+            "id":1,
+            "name": "Student ID Card",
+            "location": "Jakarta",
+            "departmen1": "card"
+        },
+        {
+            "id":2,
+            "name": "Flyer Majalah",
+            "location": "Surabaya",
+            "type": "flyer"
+        },
+        {
+            "id":3,
+            "name": "Employee ID Card",
+            "location": "Surabaya",
+            "type": "card"
+        },
+        {
+            "id":4,
+            "name": "Poster Iklan",
+            "location": "Surabaya",
+            "type": "poster"
+        },
+        {
+            "id":5,
+            "name": "Custom ID Card",
+            "location": "Surabaya",
+            "type": "card"
+        },
+        {
+            "id":6,
+            "name": "Custom ID Card",
+            "location": "Surabaya",
+            "type": "card"
+        }
     ]
 }
